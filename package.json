@@ -1,0 +1,32 @@
+{
+  "name": "zarya-two-line-element",
+  "version": "1.0.0",
+  "description": "Parse the raw International Space Station (ISS / Zarya) trajectory data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonard Lee <leonardlee@outlook.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "geolib": "^2.0.21",
+    "got": "^6.3.0",
+    "strftime": "^0.9.2",
+    "strsplit": "^1.0.0",
+    "tle": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheeeng/zarya-two-line-element.git"
+  },
+  "keywords": [
+    "iss",
+    "space",
+    "zarya",
+    "tle"
+  ],
+  "bugs": {
+    "url": "https://github.com/sheeeng/zarya-two-line-element/issues"
+  },
+  "homepage": "https://github.com/sheeeng/zarya-two-line-element#readme"
+}
